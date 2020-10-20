@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-https://img.shields.io/github/languages/code-size/abyanjksatu/spring-to-heroku
-https://img.shields.io/github/languages/top/abyanjksatu/spring-to-heroku
+![alt text](https://img.shields.io/github/languages/code-size/abyanjksatu/spring-to-heroku "Code Size")
+![alt text](https://img.shields.io/github/languages/top/abyanjksatu/spring-to-heroku "Top Language")
 
 # spring-to-heroku
 spring to heroku in 5 minutes
