@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![alt text](https://img.shields.io/github/languages/code-size/abyanjksatu/spring-to-heroku "Code Size")
 ![alt text](https://img.shields.io/github/languages/top/abyanjksatu/spring-to-heroku "Top Language")
+[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=spring-to-heroku&metric=alert_status)](http://localhost:9000/dashboard?id=spring-to-heroku)
 
 # spring-to-heroku
 spring to heroku in 5 minutes
