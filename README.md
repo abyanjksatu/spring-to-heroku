@@ -15,7 +15,7 @@ There are 5 Step to accomplish this project:
 ## Setup Project
 
 Initialize your project with Spring Initializr
-A [link](https://start.spring.io/ "Spring Initializr").
+A [Spring Initializr](https://start.spring.io/ "Spring Initializr").
 
 Add Dependency through Spring Initializr:
 - Spring Web
